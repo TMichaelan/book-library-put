@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Interfaces.ILibrary>
+
+@{
+    ViewData["Title"] = "Libraries";
+}
+
+<h2>Libraries</h2>
+
+<p>
+    <a asp-controller="Home" asp-action="CreateLibrary" class="btn btn-primary">Create New Library</a>
+</p>
+
+<p>
+    <form asp-controller="Home" asp-action="SearchLibraries" method="get">
+        <input type="text" name="searchString" />
+        <button type="submit" class="btn btn-default">Search</button>
+    </form>
+</p>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var library in Model)
+            {
+                <tr>
+                    <td>@library.Name</td>
+                    <td>
+                        <a asp-action="EditLibrary" asp-route-id="@library.UUID" class="btn btn-primary mr-2">Edit</a>
+                        <form asp-action="DeleteLibrary" asp-route-id="@library.UUID" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No libraries found.</p>
+}
