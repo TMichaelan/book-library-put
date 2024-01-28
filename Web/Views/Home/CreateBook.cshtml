@@ -1,0 +1,19 @@
+﻿@model Web.Models.Book
+
+<form asp-action="CreateBook" method="post">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <label asp-for="Author"></label>
+        <input asp-for="Author" class="form-control" />
+        <label asp-for="Genre"></label>
+        <select asp-for="Genre" asp-items="ViewBag.Genres" class="form-control"></select>
+        <label asp-for="LibraryId"></label>
+         @* <select asp-for="Library.UUID" asp-items="@ViewBag.Libraries" class="form-control"></select> *@
+        <select asp-for="LibraryId" asp-items="@ViewBag.Libraries" class="form-control"></select>
+        <label asp-for="Year"></label>
+        <input asp-for="Year" class="form-control" />
+
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

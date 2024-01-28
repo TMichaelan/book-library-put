@@ -1,0 +1,24 @@
+D:\Politechnika Poznanska\Sem7\PW\project\Core\bin\Debug\net8.0\Core.deps.json
+D:\Politechnika Poznanska\Sem7\PW\project\Core\bin\Debug\net8.0\Core.dll
+D:\Politechnika Poznanska\Sem7\PW\project\Core\bin\Debug\net8.0\Core.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\Core.dll
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\Core.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Study\PW\my_pw\Core\bin\Debug\net8.0\Core.deps.json
+C:\Study\PW\my_pw\Core\bin\Debug\net8.0\Core.dll
+C:\Study\PW\my_pw\Core\bin\Debug\net8.0\Core.pdb
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\Core.dll
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\Core.pdb
+C:\Study\PW\my_pw\Core\obj\Debug\net8.0\ref\Core.dll

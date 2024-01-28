@@ -1,0 +1,32 @@
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\bin\Debug\net8.0\Interfaces.dll
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\bin\Debug\net8.0\Core.dll
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\bin\Debug\net8.0\Core.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CopyComplete
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.dll
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
+C:\Study\PW\my_pw\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Study\PW\my_pw\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Study\PW\my_pw\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Study\PW\my_pw\Interfaces\bin\Debug\net8.0\Core.dll
+C:\Study\PW\my_pw\Interfaces\bin\Debug\net8.0\Core.pdb
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CopyComplete
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Study\PW\my_pw\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

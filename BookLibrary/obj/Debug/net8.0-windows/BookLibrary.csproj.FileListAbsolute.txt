@@ -1,0 +1,286 @@
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.exe
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.deps.json
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.runtimeconfig.json
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BLC.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BookLibraryDBMock.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Core.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Interfaces.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BookLibraryDBMock.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\BLC.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Core.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\bin\Debug\net8.0-windows\Interfaces.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.csproj.AssemblyReference.cache
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookDialog.baml
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\LibraryDialog.baml
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookDialog.g.cs
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\LibraryDialog.g.cs
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\App.g.cs
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary_MarkupCompile.cache
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary_MarkupCompile.lref
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\App.baml
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.g.resources
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.AssemblyInfoInputs.cache
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.AssemblyInfo.cs
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.csproj.CoreCompileInputs.cache
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.sourcelink.json
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.csproj.CopyComplete
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\refint\BookLibrary.dll
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.pdb
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.genruntimeconfig.cache
+D:\Politechnika Poznanska\Sem7\PW\project\BookLibrary\obj\Debug\net8.0-windows\ref\BookLibrary.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.exe
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.deps.json
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.runtimeconfig.json
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BookLibrary.pdb
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BLC.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BookLibraryDBMock.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Core.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Interfaces.dll
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BookLibraryDBMock.pdb
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\BLC.pdb
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Core.pdb
+C:\Study\PW\my_pw\BookLibrary\bin\Debug\net8.0-windows\Interfaces.pdb
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.csproj.AssemblyReference.cache
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookDialog.baml
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\LibraryDialog.baml
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookDialog.g.cs
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\LibraryDialog.g.cs
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\App.g.cs
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary_MarkupCompile.cache
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary_MarkupCompile.lref
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\App.baml
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.g.resources
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.AssemblyInfoInputs.cache
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.AssemblyInfo.cs
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.sourcelink.json
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.csproj.CopyComplete
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.dll
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\refint\BookLibrary.dll
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.pdb
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\BookLibrary.genruntimeconfig.cache
+C:\Study\PW\my_pw\BookLibrary\obj\Debug\net8.0-windows\ref\BookLibrary.dll

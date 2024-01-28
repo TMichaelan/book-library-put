@@ -1,0 +1,67 @@
+﻿@using BazhkoTarchyla.BookLibrary.BL
+@model IEnumerable<Interfaces.IBook>
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h2>Books</h2>
+
+<p>
+    <a asp-controller="Home" asp-action="CreateBook" class="btn btn-primary">Create New Book</a>
+</p>
+
+<p>
+    <form asp-controller="Home" asp-action="SearchTitle" method="get">
+        <input type="text" name="title" placeholder="Search by title" />
+        <button type="submit" class="btn btn-default">Search</button>
+    </form>
+    <form asp-controller="Home" asp-action="SearchAuthor" method="get">
+        <input type="text" name="author" placeholder="Search by author" />
+        <button type="submit" class="btn btn-default">Search</button>
+    </form>
+    <form asp-controller="Home" asp-action="SearchYear" method="get">
+        <input type="text" name="year" placeholder="Search by year" />
+        <button type="submit" class="btn btn-default">Search</button>
+    </form>
+</p>
+
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Year</th>
+                <th>Genre</th>
+                <th>Library</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.Year</td>
+                    <td>@book.Genre</td>
+                    <td>@book.Library.Name</td>
+                    <td>
+                        <a asp-action="EditBook" asp-route-id="@book.UUID" class="btn btn-primary mr-2">Edit</a>
+                        <form asp-action="DeleteBook" asp-route-id="@book.UUID" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No books found.</p>
+}
